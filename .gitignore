@@ -1,5 +1,5 @@
 env/
 __pycache__/
 *.ipynb_checkpoints/
-
+sales_dataset.csv
 student_guide_ml_regression.md
